@@ -1,0 +1,14 @@
+
+---
+
+## 12) `.gitignore`
+
+```gitignore
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
+models/
+reports/
+*.log
+.DS_Store
