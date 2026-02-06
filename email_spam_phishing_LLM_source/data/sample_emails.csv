@@ -1,0 +1,7 @@
+text,label
+"Hi team, meeting is at 3 PM. Please join.",Legitimate
+"Congratulations! You won a prize. Click here to claim.",Spam
+"Your account is locked. Verify immediately at http://fake-login.com",Phishing
+"Limited time offer, buy now and save big!",Spam
+"Please find the attached invoice for last month.",Legitimate
+"Urgent: update your password now using this link: http://secure-update-login.net",Phishing
