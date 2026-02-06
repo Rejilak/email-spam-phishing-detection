@@ -1,0 +1,11 @@
+cd email-spam-phishing-detection
+pip install -r requirements.txt
+
+# train baseline
+python -m src.baseline_ml
+
+# train bert
+python -m src.train_bert
+
+# start app
+streamlit run app/streamlit_app.py
